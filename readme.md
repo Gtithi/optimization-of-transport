@@ -106,6 +106,3 @@ The Streamlit app provides the following interactive outputs:
 - **Praveen Kumar Ojha - @ojha.praveenk**
 - **Naumanurrahman Shaikh Mujeeburrahman - @nabjad258**
 - **Tithi Ghosh - @Gtithi**# optimization-of-transport
-
-
-This is a new line for the README
